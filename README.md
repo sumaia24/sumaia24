@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6e5e,50:1a9e80,100:a8ddc9&height=200&section=header&text=Sumaia%20Akter%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" />
-<img src="https://raw.githubusercontent.com/MehediHasan128/MehediHasan128/refs/heads/main/banner.png" alt="banner-image" />
+<img src="https://raw.githubusercontent.com/sumaia24/sumaia24/refs/heads/main/banner.png" alt="banner-image" />
 
 <!-- Profile Views -->
 <p>

@@ -101,5 +101,5 @@ I'm **Sumaia Akter** — Passionate Full Stack **Web Developer** focused on buil
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6e5e,50:1a9e80,100:a8ddc9&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5358c4,50:ba69e1,100:a8ddc9&height=120&section=footer" />
 </div>

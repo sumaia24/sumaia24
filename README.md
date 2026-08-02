@@ -78,25 +78,11 @@ I'm **Sumaia Akter** — Passionate Full Stack **Web Developer** focused on buil
   <a href="https://github.com/sumaia24">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehediHasan128&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="mehediHasan128's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=mehediHasan128&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mehediHasan128's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sumaia24&theme=nightowl&hide_border=true&cache_seconds=86400" alt="sumaia24's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mehediHasan128&theme=nightowl&radius=10" alt="mehediHasan128's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sumaia24&theme=nightowl&radius=10" alt="sumaia24's Activity Graph" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi-hasan-baized-5620b0383)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mehedi.hasan.376594)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mehedi.heic)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanbaized@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white)](https://mhdevs.vercel.app/)
-
-</div>
 
 ---
 

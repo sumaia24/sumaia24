@@ -65,7 +65,7 @@ I'm **Sumaia Akter** — Passionate Full Stack **Web Developer** focused on buil
 </div>
 
 <p align="center">
-  <a href="https://github.com/mehediHasan128">
+  <a href="https://github.com/sumaia24">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mehediHasan128&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
 </p>
@@ -75,7 +75,7 @@ I'm **Sumaia Akter** — Passionate Full Stack **Web Developer** focused on buil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mehediHasan128">
+  <a href="https://github.com/sumaia24">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehediHasan128&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="mehediHasan128's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=mehediHasan128&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mehediHasan128's GitHub Streak" width="49%" />

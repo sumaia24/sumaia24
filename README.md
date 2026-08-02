@@ -76,7 +76,7 @@ I'm **Sumaia Akter** — Passionate Full Stack **Web Developer** focused on buil
 
 <p align="center">
   <a href="https://github.com/sumaia24">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehediHasan128&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="mehediHasan128's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumaia24&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="sumaia24's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=sumaia24&theme=nightowl&hide_border=true&cache_seconds=86400" alt="sumaia24's GitHub Streak" width="49%" />
 </p>
